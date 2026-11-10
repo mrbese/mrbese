@@ -4,11 +4,11 @@ Energy systems engineer, founder, builder, operator. I build energy software wit
 
 **Now**
 
-- **[Lens](https://wattshed.co/lens)**, an independent case study of the power contract for the 482 MW Hawesville, Kentucky data center campus, built from public filings (Kentucky PSC case 2026-00115, Big Rivers, Kenergy, MISO). A live model and a two-page memo state what each contract term would cost, and Claude can price any term through its MCP server.
+- **[The Hawesville power contract](https://wattshed.co/case-study/hancock-county)**, an independent case study of the power contract for the 482 MW Hawesville, Kentucky data center campus, built from public filings (Kentucky PSC case 2026-00115, Big Rivers, Kenergy, MISO). A live model and a two-page memo state what each contract term would cost, and Claude can price any term through [Lens](https://wattshed.co/lens), its MCP server.
 - **[Wythe County case study](https://wattshed.co/case-study/wythe-county)**, a $10M program of home upgrades and batteries in the homes nearest Fluidstack's Progress Park campus, counted as capacity reduction credits under Va. Code 56-596.7. Each home is modeled hour by hour and billed on Appalachian Power's residential schedules.
 - **[Re_Tera: Insurance Copilot](https://apps.apple.com/app/id6776045760)**, we investigate your insurance policy before the fire does. A native iPhone and iPad app for homeowners and renters, live on the App Store. [Engineering notes](https://github.com/mrbese/retera-notes).
 
-Lens and the Wythe study are part of **[WattShed](https://wattshed.co)**, community energy programs for data centers: software that creates, verifies and pays household efficiency rebates. A public, no-login program designer covers all 50 states and DC, vision AI audits each home from video, and a deterministic engine prices every rebate. The code is private; [engineering notes](https://github.com/mrbese/wattshed-notes) explain the system.
+Both studies are part of **[WattShed](https://wattshed.co)**, community energy programs for data centers: software that creates, verifies and pays household efficiency rebates. A public, no-login program designer covers all 50 states and DC, vision AI audits each home from video, and a deterministic engine prices every rebate. The code is private; [engineering notes](https://github.com/mrbese/wattshed-notes) explain the system.
 
 **Also built**
 
